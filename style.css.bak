@@ -346,18 +346,6 @@ background-size: auto 40%;
 background-repeat: no-repeat;
 background-position: 50% 35px;
 }
-.whatsapp-icon a{
-background:url(images/icons/white/whatsapp.png);
-background-size: auto 40%;
-background-repeat: no-repeat;
-background-position: 50% 35px;
-}
-.phone-icon a{
-background:url(images/icons/white/phone.png);
-background-size: auto 40%;
-background-repeat: no-repeat;
-background-position: 50% 35px;
-}
 
 .home-icon-small{
 background:url(images/icons/white/home.png);
